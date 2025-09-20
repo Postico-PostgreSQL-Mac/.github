@@ -1,7 +1,7 @@
 # Postico PostgreSQL Mac – PostgreSQL Database Client for macOS
 
 <div align="center">  
-<img src="https://images.seeklogo.com/logo-png/45/1/postico-logo-png_seeklogo-459106.png" alt="Postico PostgreSQL Mac Logo" width="600">  
+<img src="https://images.seeklogo.com/logo-png/45/3/postico-logo-png_seeklogo-459106.png" alt="Postico PostgreSQL Mac Logo" width="600">  
 </div>  
 
 <div align="center">  
